@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(223, 217, 217);
+}
+.mish-logo{
+    height: 4em;
+    width: 4em;
+    padding:0;
+}
+.ow-font{
+    font-weight: 600;
+    color: darkgrey;
+    font-family: fantasy;
+
+}
+.desc{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:darkgrey;
+    font-weight: bolder;
+}
+.our-team{
+    margin-bottom: auto;
+    padding: 100px 0px 60px;
+    height :200px
+}
+.our-team h1{
+    font-size: 40;
+    font-weight: bolder;
+    font-family: 'Fondamento', cursive;
+}
+.imgsetting{
+    padding-top: 40px;
+}
+
+.backcol{
+    background-color: rgb(225, 236, 227);
+}
